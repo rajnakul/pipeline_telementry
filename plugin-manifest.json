@@ -1,0 +1,13 @@
+{
+  "uniqueName": "PipelineHUD_v8",
+  "displayName": "Pipeline HUD v8",
+  "version": "8.0",
+  "platform": "CRM",
+  "type": "webtab",
+  "homepage": "index.html",
+  "permissions": [
+    "ZohoCRM.modules.ALL",
+    "ZohoCRM.modules.custom.ALL",
+    "ZohoCRM.settings.modules.ALL"
+  ]
+}
